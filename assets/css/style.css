@@ -41,6 +41,7 @@ body, html {
     padding-top: 10%;
 }
 #article-1 p {
+    display: inline-block;
     width: 20%;
     margin: 2% 0 0 10%;
     color: #e7bc0e;
@@ -52,6 +53,15 @@ body, html {
     top: 1%;
     right: 10%;
     width: 20px;
+}
+
+
+#rotate {
+    display: inline-block;
+    top: 450px;
+    padding-left: 30px;
+    position: absolute;
+    transform: rotate(90deg);
 }
 
 #article-2 {
