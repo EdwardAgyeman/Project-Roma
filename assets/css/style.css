@@ -4,7 +4,7 @@
  */
 @font-face {
     font-family: 'Santio';
-    src: url('../fonts/Santio\ regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('../fonts/Santio.ttf')  format('truetype'), /* Safari, Android, iOS */
 
 }
 body, html {
