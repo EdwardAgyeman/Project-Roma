@@ -2,10 +2,23 @@
 2. Santio Font korrekt runterladen und einfügen
 3. Background Image (#section-7) in ganzer Größe sichtbar machen
  */
-@font-face {
+/* @font-face {
     font-family: 'Santio';
-    src: url('../fonts/Santio.ttf')  format('truetype'), /* Safari, Android, iOS */
+    src: url('../fonts/Santio.ttf')  format('truetype'), 
 
+} */
+
+@font-face {
+    font-family: "Santio";
+    src: url("./fonts/Santioregular.eot"); /* IE9 Compat Modes */
+    src: url("./fonts/Santioregular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("./fonts/Santioregular.otf") format("opentype"), /* Open Type Font */
+      url("./fonts/Santioregular.svg") format("svg"), /* Legacy iOS */
+      url("./fonts/Santioregular.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("./fonts/Santioregular.woff") format("woff"), /* Modern Browsers */
+      url("./fonts/Santioregular.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
 }
 body, html {
     height: 100%;
