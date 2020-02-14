@@ -80,7 +80,7 @@ body, html {
     margin: 0 0 0 15%;
 }
 #article-2-span {
-    background-color: #000;
+    background-color: rgb(42, 39, 42);
     color: white;
 }
 
@@ -98,7 +98,7 @@ body, html {
 }
 #article-3-span-2 {
     color: white;
-    background-color: #000;
+    background-color: rgb(42, 39, 42)
 }
 #article-3-svg {
     width: 100px;
@@ -141,7 +141,7 @@ body, html {
 }
 #article-5-span-2 {
     color: white;
-    background-color: #000;
+    background-color: rgb(42, 39, 42)
 }
 #article-5-svg {
     width: 100px;
@@ -160,7 +160,7 @@ body, html {
 }
 #article-6-span {
     color: white;
-    background-color: #000;
+    background-color: rgb(42, 39, 42)
 }
 
 #section-7 {
