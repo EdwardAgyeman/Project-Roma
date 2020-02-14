@@ -198,3 +198,19 @@ body, html {
     margin: 0 0 0 10%;
     padding-top: 15%;
 }
+#inspiration{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    background: #000;
+    margin: 0;
+    color: #ffffff;
+}
+#inspiration span{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    background: #000;
+    margin: 0;
+    color: #6bc1a3;
+}
